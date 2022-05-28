@@ -2,4 +2,4 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Firacode&duration=1000&multiline=true&height=130&lines=%F0%9F%92%BB%3A+The+code+does+not+work.;%F0%9F%A4%94%3A+Why%3F+;----+after+debugging+----;%F0%9F%92%BB%3A+The+code+works.;%F0%9F%A4%94%3A+Why%3F+)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=zarif25&count_private=true&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=zarif25&count_private=true&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&bg_color=35,f0a161,eb6776,c75edd,9860f0,5f67dc&text_color=ffffff)
