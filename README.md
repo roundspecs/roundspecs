@@ -1,8 +1,19 @@
 # Hi, I’m Zarif Muhtasim <img alt="mario wave retro game" title="mario wave retro game" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643515397/14160/mario_wave.gif?1643515397" width="40">
 
 ### <img width="20" src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023"> Currently learning
-- [ ] Flutter
-- [ ] Dart
+- [ ] Competitive Programming
+    - [ ] Guide to CP
+    - [ ] Binary Search
+- [ ] Machine Learning
+    - [ ] Calculus
+    - [ ] Mathematics for CS 2010
+	- [x] 1...3
+    - [ ] Mathematics for CS 2019
+	- [x] 1.1
+    - [ ] DM by Dr. Treffor Bazzet
+- [ ] App Development
+    - [ ] Flutter
+        - [ ] Dart Programming Language
 
 ### <img width="20" src="https://emojis.slackmojis.com/emojis/images/1643514658/6631/workingonit.gif?1643514658"> Which programming language do I use the most?</summary>
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=zarif25&count_private=true&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&bg_color=35,f0a161,eb6776,c75edd,9860f0,5f67dc&text_color=ffffff">
