@@ -7,9 +7,9 @@
 - [ ] Machine Learning
     - [ ] Calculus
     - [ ] Mathematics for CS 2010
-	- [x] 1...3
+        - [x] 1...3
     - [ ] Mathematics for CS 2019
-	- [x] 1.1
+        - [x] 1.1
     - [ ] DM by Dr. Treffor Bazzet
 - [ ] App Development
     - [ ] Flutter
