@@ -1,5 +1,7 @@
 # Hi, I’m Zarif Muhtasim <img alt="mario wave retro game" title="mario wave retro game" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643515397/14160/mario_wave.gif?1643515397" width="40">
 
+<img src="https://komarev.com/ghpvc/?username=roundspecs&label=Profile%20views&color=0e75b6&style=flat" alt="roundspecs" />
+
 ### <img width="20" src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023"> Currently learning
 - [ ] Competitive Programming
     - [ ] Guide to CP
