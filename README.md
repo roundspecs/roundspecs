@@ -6,16 +6,6 @@
 - [ ] Competitive Programming
     - [ ] Guide to CP
     - [ ] Binary Search
-- [ ] Machine Learning
-    - [ ] Calculus
-    - [ ] Mathematics for CS 2010
-        - [x] 1...3
-    - [ ] Mathematics for CS 2019
-        - [x] 1.1
-    - [ ] DM by Dr. Treffor Bazzet
-- [ ] App Development
-    - [ ] Flutter
-        - [ ] Dart Programming Language
 
 ### <img width="20" src="https://emojis.slackmojis.com/emojis/images/1643514658/6631/workingonit.gif?1643514658"> Which programming language do I use the most?</summary>
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=roundspecs&count_private=true&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&bg_color=35,f0a161,eb6776,c75edd,9860f0,5f67dc&text_color=ffffff">
