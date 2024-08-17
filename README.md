@@ -14,7 +14,7 @@
 </p>
 
 
-## Technologies I am familiar with:
+## Expertise:
 ### <img width="15" src="https://emojis.slackmojis.com/emojis/images/1643514460/4417/flutter.png?1643514460">  Flutter
 Packages I have used:
 - [flutter_bloc](https://pub.dev/packages/flutter_bloc)
