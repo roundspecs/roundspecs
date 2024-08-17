@@ -30,7 +30,7 @@ Packages I have used:
 - [permission_handler](https://pub.dev/packages/permission_handler)
 - [get_it](https://pub.dev/packages/get_it)
 - [equatable](https://pub.dev/packages/equatable)
-- [json_annotation](https://pub.dev/packages/json_annotation)
+- [json_serializable](https://pub.dev/packages/json_serializable)
 - [linked_text](https://pub.dev/packages/linked_text)
 
 
