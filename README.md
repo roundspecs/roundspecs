@@ -34,5 +34,5 @@ Packages I have used:
 - [linked_text](https://pub.dev/packages/linked_text)
 
 
-## <img width="20" src="https://emojis.slackmojis.com/emojis/images/1643514658/6631/workingonit.gif?1643514658"> Stats</summary>
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=roundspecs&count_private=true&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&bg_color=35,f0a161,eb6776,c75edd,9860f0,5f67dc&text_color=ffffff">
+## Stats</summary>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roundspecs&layout=compact)
