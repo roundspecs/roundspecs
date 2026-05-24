@@ -10,11 +10,23 @@ I'm a software developer with a passion for building impactful applications. I b
 * 🌱 I am continuously learning and currently preparing for my GRE.
 
 ## 🛠️ Tech Stack & Tools
-
-* **Languages:** Go, JavaScript/TypeScript, Python
-* **Frameworks & Libraries:** React.js, Next.js
-* **Infrastructure & BaaS:** Firebase, Supabase, Vercel
-* **Environment:** Linux (Fedora/Arch), Neovim, VS Code CLI
+* Go:
+  * colly
+* JS:
+  * React.js
+  * Next.js
+* General:
+  * GraphQL
+  * Firebase
+  * Supabase
+* OS:
+  * Arch
+  * Fedora
+  * Ubuntu
+  * Windows
+  * MacOS
+* Dev:
+  * vim
 
 ## 📫 Let's Connect
 * [Email](mailto:roundspecs@pm.me)
